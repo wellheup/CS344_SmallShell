@@ -1,9 +1,16 @@
+DESCRIPTION:
+A basic shell program written in C to mimic standard shell programs.
+
+INSTRUCTIONS:
+
 To run my smallsh program from smallsh.c:
 
 1. Navigate to the folder that the smallsh.c file is located in
 2. Compile the program by entering gcc -g -std=gnu99 smallsh.c -o smallsh
 3. The smallsh program file should be ready to run now. Enter smallsh to run.
 
+
+ASSIGNMENT:
 
 In this assignment you will write your own shell in C, similar to bash. No other languages, including C++, are allowed, though you may use any version of C you like, such as C99. The shell will run command line instructions and return the results similar to other shells you have used, but without many of their fancier features.
 
